@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danyal Alam</h1>
 <h3 align="center">Exploring advanced techniques and applications in ML.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danyalalam" alt="danyalalam" /></a> </p>
-
 - 🌱 I’m currently learning **Mlops and Generative AI**
 
 - 📫 How to reach me **danyalalam514@gmail.com**
