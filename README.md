@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danyal Alam</h1>
 <h3 align="center">Exploring advanced techniques and applications in ML.</h3>
 
-- 🌱 I’m currently learning **Mlops and Generative AI**
+- 🌱 I’m currently into **Mlops and Generative AI**
 
 - 📫 How to reach me **danyalalam514@gmail.com**
 
