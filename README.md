@@ -1,20 +1,30 @@
-<h1 align="center">Hi 👋, I'm Danyal Alam</h1>
-<h3 align="center">Exploring advanced techniques and applications in ML.</h3>
+# Danyal Alam
 
-- 🌱 I’m currently into **Mlops and Generative AI**
+**AI Engineer** · LLM agents, retrieval systems and production Python
 
-- 📫 How to reach me **danyalalam514@gmail.com**
+I build LLM agents and RAG systems that run in production, mostly for clients in the US, UK and Europe. My work sits at the application layer: agent workflows, retrieval quality, evaluation, and the backend plumbing that makes both reliable.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/danyal alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danyal alam" height="30" width="40" /></a>
-</p>
+### What I work on
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- **Agents** — multi-step workflows with tool and function calling, guardrails and state handling, built with LangGraph and LangChain
+- **Retrieval** — hybrid search combining sparse keyword and dense vector retrieval, citation handling, and evaluation against accuracy and latency rather than vibes
+- **MCP** — servers and tool definitions that expose internal systems to LLM agents with scoped permissions
+- **Shipping** — FastAPI services, Docker, CI/CD, and tracing with Langfuse so failures are debuggable
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danyalalam&show_icons=true&locale=en&layout=compact" alt="danyalalam" /></p>
+### Selected repositories
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danyalalam&show_icons=true&locale=en" alt="danyalalam" /></p>
+- **[LLM-from-scratch](https://github.com/Danyalalam/LLM-from-scratch)** — transformer built up component by component, for understanding the layer below the frameworks
+- **[Production-Grade-ML-Project](https://github.com/Danyalalam/Production-Grade-ML-Project)** — end-to-end pipeline from ingestion and validation through training to cloud deployment. MongoDB, AWS, Docker, FastAPI, CI/CD
+- **[End-To-End-DL-Project-With-MLOPS](https://github.com/Danyalalam/End-To-End-DL-Project-With-MLOPS)** — deep learning project with a full MLOps workflow
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danyalalam&" alt="danyalalam" /></p>
+### Stack
+
+**LLM & agents** LangGraph · LangChain · LlamaIndex · MCP · Langfuse
+**Retrieval** Qdrant · ChromaDB · hybrid sparse and dense search
+**Backend** Python · FastAPI · WebSockets · PostgreSQL · MongoDB
+**Infra** Docker · Azure · AWS · GitHub Actions
+**ML** PyTorch · scikit-learn · Pandas · NumPy
+
+### Contact
+
+danyalalam514@gmail.com · [LinkedIn](https://www.linkedin.com/in/danyal-alam-272593312/)
