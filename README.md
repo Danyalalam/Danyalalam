@@ -11,6 +11,11 @@ I build LLM agents and RAG systems that run in production, mostly for clients in
 - **MCP** — servers and tool definitions that expose internal systems to LLM agents with scoped permissions
 - **Shipping** — FastAPI services, Docker, CI/CD, and tracing with Langfuse so failures are debuggable
 
+### Featured projects
+
+- **[ai_language_agent](https://github.com/Danyalalam/ai_language_agent)** — full-stack pronunciation assessment app. Azure Speech SDK scores the audio, Gemini turns the results into a readable feedback report. FastAPI backend (uv, Python 3.13), React + TypeScript + Vite frontend served through Nginx, multi-stage Docker builds with Compose. Next up: CI/CD and Azure Container Apps
+- **Food packaging automation (client project, B2B SaaS MVP)** — LangGraph and LlamaIndex pipeline that extracts packaging data and renders front-panel templates. Hybrid design: LLM extraction, HTML/CSS rendering and a Fabric.js/Konva.js canvas editor, instead of unpredictable pure image generation. Qdrant Cloud (EU) for retrieval, LlamaParse for documents, Langfuse for tracing, FastAPI backend. Private repo, walkthrough on request
+
 ### Selected repositories
 
 - **[LLM-from-scratch](https://github.com/Danyalalam/LLM-from-scratch)** — transformer built up component by component, for understanding the layer below the frameworks
